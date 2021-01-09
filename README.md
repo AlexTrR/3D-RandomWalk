@@ -29,7 +29,7 @@ Here are some screenshots:
      <td><p align="center">Hundreds of steps.</p></td>
    </tr>
    <tr>
-     <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=450 height=300></td>
+     <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=400 height=300></td>
      <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG" width=350 height=300></td>
    </tr>
  </table>
