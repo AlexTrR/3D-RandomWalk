@@ -3,7 +3,7 @@
 In this repository I'll show you a random walk script which moves on three axis code on python programing language.
 
 <p align="center">
-  <img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Python.png?raw=true" alt="Python."/>
+  <img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Python.png?raw=true" width=400 height=400>/>
 </p>
 
 ---
