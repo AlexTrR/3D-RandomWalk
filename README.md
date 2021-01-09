@@ -22,16 +22,17 @@ In this repository I'll show you a random walk script which moves on three axis 
 The script will ask you for a number of steps and will display those steps for three random walkers.
 Here are some screenshots:
 #
-
-<table>
-  <tr>
-    <td>Millions of steps.</td>
-     <td>Hundreds of steps.</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG" width=300 height=300></td>
-    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=300 height=300></td>
-  </tr>
- </table>
+<p align="center">
+  <table>
+    <tr>
+      <td>Millions of steps.</td>
+      <td>Hundreds of steps.</td>
+    </tr>
+    <tr>
+      <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=320 height=300></td>
+      <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG" width=320 height=300></td>
+    </tr>
+  </table>
+ </p>
 
 Hope it helps you in any project your'e coding. 
