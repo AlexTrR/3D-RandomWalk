@@ -23,7 +23,7 @@ The script will ask you for a number of steps and will display those steps for t
 Here are some screenshots:
 #
 
-![LOGO](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG) ![LOGO](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG)
+![](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG) | ![](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG)
 
 
 Hope it helps you in any project your'e coding. 
