@@ -2,7 +2,9 @@
 
 In this repository I'll show you a random walk script which moves on three axis code on python programing language.
 
-![LOGO](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Python.png)
+<p align="center">
+  <img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Python.png?raw=true" alt="Python."/>
+</p>
 
 ---
 ## _Quick links_
