@@ -23,16 +23,14 @@ The script will ask you for a number of steps and will display those steps for t
 Here are some screenshots:
 #
 
-![](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG) | ![](https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG)
 <table>
   <tr>
-    <td>First Screen Page</td>
-     <td>Holiday Mention</td>
-     <td>Present day in purple and selected day in pink</td>
+    <td>Millions of steps.</td>
+     <td>Hundreds of steps.</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG" width=270 height=480></td>
-    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=270 height=480></td>
+    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura.PNG" width=300 height=300></td>
+    <td><img src="https://github.com/AlexTrR/3D-RandomWalk/blob/main/Docs/Captura%20II.PNG" width=300 height=300></td>
   </tr>
  </table>
 
